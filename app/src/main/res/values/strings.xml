@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Microprocessor Quiz</string>
+    <string name="question1">Q.1 :- What was the first 16 bit microprocessor chip designed by Intel ?</string>
+    <string name="answer1">8086</string>
+    <string name="question2">Q.2 :- How much bit address bus does 8086 has ?</string>
+    <string name="answer2_1">16 bit</string>
+    <string name="answer2_2">20 bit</string>
+    <string name="answer2_3">16 byte</string>
+    <string name="answer2_4">20 byte</string>
+    <string name="question3">Q.3 :- 8086 can access how much memory ?</string>
+    <string name="answer3">1 MB</string>
+    <string name="question4">Q.4 :- Which unit calculate physical address or go out to fetch instruction ?</string>
+    <string name="answer4_1">EU</string>
+    <string name="answer4_2">BIU</string>
+    <string name="question5">Q.5 :- What is the size of the queue of 8086 microprocessor ?</string>
+    <string name="answer5_1">6 Byte</string>
+    <string name="answer5_2">6 Bit</string>
+    <string name="answer5_3">16 Bit</string>
+    <string name="answer5_4">6 Instruction</string>
+    <string name="question6">Q.6 :- Which of these are offset registers ?</string>
+    <string name="answers6_1">SP</string>
+    <string name="answers6_2">DS</string>
+    <string name="answers6_3">BP</string>
+    <string name="answers6_4">SI</string>
+    <string name="question7">Q.7 :- In register indirect addressing mode of 8086 the effective address/offset address are in which of these ?</string>
+    <string name="answer7_1">SI</string>
+    <string name="answer7_2">DI</string>
+    <string name="answer7_3">BX</string>
+    <string name="answer7_4">DS</string>
+    <string name="answer7_5">BP</string>
+    <string name="question8">Q.8 :- In the based indexed addressing mode, effective address is of data is formed by addition of which of these ?</string>
+    <string name="answer8_1">BX, SI</string>
+    <string name="answer8_2">BP, DI</string>
+    <string name="answer8_3">BP, SI</string>
+    <string name="answer8_4">BX, DI</string>
+    <string name="button">Submit</string>
+</resources>
